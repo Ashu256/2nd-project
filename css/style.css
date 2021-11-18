@@ -1,0 +1,141 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  margin-top: 0;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+  width: 5%;
+  border: 0 solid white;
+  border-top: 5px dotted grey;
+}
+
+.profile{
+  width: 50%;
+  margin: 100px auto 50px auto;
+}
+
+.profile p{
+  margin: auto 100px;
+  line-height: 2;
+}
+
+.skills{
+  margin-top: 50px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.profile-img{
+  width: 25%;
+  margin-bottom: 10px;
+}
+.code-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chilli-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+
+.mountain2{
+  position: relative;
+  right: 200px;
+}
+
+.mountain {
+  position: relative;
+  left: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.middle-cloud{
+  position: absolute;
+  top: 450px;
+  right: 550px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 100px;
+}
+
+.bottom-cloud {
+  left: 300px;
+  bottom: 300px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.first-container {
+  background-color: powderblue;
+  padding-top: 100px;
+  position: relative;
+}
+
+.contact-me{
+  width: 50%;
+  margin: 50px auto;
+  line-height: 2;
+}
+
+.btn{
+  background-color: #66BFBF;
+  text-decoration: none;
+  color: white;
+  border-radius: 5px;
+  padding: 8px 10px 8px 10px;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  position: relative;
+  padding: 45px;
+}
+
+.footer-link{
+  text-decoration: none;
+  color: #11999E;
+  margin: 20px;
+}
+
+.bottom-container p{
+  color: #EAF6F6;
+  margin-top: 40px;
+  font-size: 1rem;
+}
